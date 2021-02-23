@@ -25,6 +25,16 @@ Some people break up their text into more messages than others. In order to dete
 
 ![](img/total-characters.png)
 
+## Activity
+
+On average, messages were exchanged only on every 5th day, which is not that much:
+
+![](img/activity-days.png)
+
+There were time periods with a lot of contact, but also weeks or months without any messages:
+
+![](img/activity-timeline.png)
+
 ## Emojis
 
 Let's have a look at who uses more emojis. The metric "emojis per character typed" is obtained by dividing the number of emojis used by the total number of characters typed. Since some people repeat the same emoji for emphasis (😂😂😂😂😂), emoji frequency is calculated both for unique emojis (filtering out emoji repetitions) and for total emojis per message. Looks like person 1 is a more prolific emoji user:
