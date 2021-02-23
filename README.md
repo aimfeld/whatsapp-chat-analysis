@@ -1,6 +1,7 @@
+<img style="float: right; margin-top: 0px" width="60" height="60" src="https://raw.githubusercontent.com/aimfeld/whatsapp-chat-analysis/main/img/whatsapp-logo.jpeg">
+
 # WhatsApp chat analysis
 
-<img src="https://github.com/aimfeld/whatsapp-chat-analysis/tree/main/img/whatsapp-logo.jpeg" width=100px style="float: right; margin-top: 0">
 
 A lot of insights can be gained from analysis of chat data between two or more people. This jupyter notebook helps answer questions like:
 - How many messages have been written per author and how long are they?
