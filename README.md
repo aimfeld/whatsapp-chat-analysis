@@ -1,4 +1,6 @@
-# Whatsapp chat analysis
+# WhatsApp chat analysis
+
+<img src="https://github.com/aimfeld/whatsapp-chat-analysis/tree/main/img/whatsapp-logo.jpeg" width=100px style="float: right; margin-top: 0">
 
 A lot of insights can be gained from analysis of chat data between two or more people. This jupyter notebook helps answer questions like:
 - How many messages have been written per author and how long are they?
@@ -7,7 +9,7 @@ A lot of insights can be gained from analysis of chat data between two or more p
 - Who tends to initiate contact more on a new day and after a period of silence? 
 - What are the most frequently used words (word cloud)?
 
-You can use this notebook to analyze your own Whatsapp chat data, which you can [export from Whatsapp](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/?lang=en). You may need to change a few parameters at the beginning of the notebook, such as import file name and date format.
+You can use this notebook to analyze your own WhatsApp chat data, which you can [export from WhatsApp](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/?lang=en). You may need to change a few parameters at the beginning of the notebook, such as import file name and date format.
 
 Here's an example (authors are anonymized):
 
