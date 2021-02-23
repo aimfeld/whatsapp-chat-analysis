@@ -1,4 +1,4 @@
-<img align="right" style="float: right; margin-top: 0px" width="60" height="60" src="https://raw.githubusercontent.com/aimfeld/whatsapp-chat-analysis/main/img/whatsapp-logo.jpeg">
+<img align="right" width="60" height="60" src="https://raw.githubusercontent.com/aimfeld/whatsapp-chat-analysis/main/img/whatsapp-logo.jpeg">
 
 # WhatsApp chat analysis
 
