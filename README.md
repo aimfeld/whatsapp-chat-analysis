@@ -56,7 +56,7 @@ Now let's look at who tends to respond faster. This analysis only considers resp
 
 ## Contact initiation
 
-Maybe the most interesting part is to look at who initiates contact more. This may be an indicator for how invested people are in their relationships or friendships. If it's always the same person initiating contact, there might an imbalance. Of course, there are other factors to consider, human relationships are very complex after all. 
+Maybe the most interesting part is to look at who initiates contact more. This may be an indicator for how invested people are in their relationships or friendships. If it's always the same person initiating contact, there might be an imbalance. Of course, there are other factors to consider, human relationships are very complex after all. 
 
 It looks like person 1 tends to initiate contact first on a new day, although the difference is not that big:
 
